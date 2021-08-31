@@ -5,7 +5,9 @@
 ### 项目说明
 
 * ir_remote_fan
+
 通过红外遥控控制电机风扇速度，通过遥控器的1、2、3键调节风扇转速。
 
 * ir_remote_system
+
 通过红外遥控控制Windows系统，将Arduino UNO的ATmega16u2芯片刷Keyboard固件，实现类似BadUSB效果，并结合红外遥控实现。遥控器1键打开资源浏览器，2键回到桌面，3键打开任务栏固定的第三个应用，CH+键关闭系统；
